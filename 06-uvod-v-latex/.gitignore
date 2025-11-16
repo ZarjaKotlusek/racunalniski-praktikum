@@ -1,0 +1,25 @@
+# LaTeX pomožne datoteke
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.toc
+*.fls
+*.log
+*.out
+*.pdf
+*.synctex.gz
+
+# MacOS sistemske datoteke
+__MACOSX
+.DS_Store
+
+# Windows sistemske datoteke
+thumbs.db
+
+# Python (za kasnejše naloge)
+*.pyc
+__pycache__
+
+# Nastavitve VSCode (lahko izpustite, če jih želite deliti)
+.vscode/
